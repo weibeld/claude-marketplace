@@ -1,0 +1,12 @@
+{
+  "name": "weibeld",
+  "description": "Claude Code plugins by Daniel Weibel",
+  "owner": { "name": "Daniel Weibel" },
+  "plugins": [
+    {
+      "name": "tableflipper",
+      "description": "Agentic software development workflow",
+      "source": { "source": "github", "repo": "weibeld/tableflipper" }
+    }
+  ]
+}
